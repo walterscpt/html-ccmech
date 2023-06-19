@@ -1,6 +1,23 @@
 html {
-    background: rgb(127, 153, 154);
+    background: rgb(120, 223, 249);
+}
+h1 {
+    color: black;
+    font: bold;
+    align-items: center;
+}
+h2 {
+    align-items: center;
+}
+h3 {
+    align-items: center;
 }
 p {
-    background: white;
+    background: rgba(255, 255, 255, 0.741);
+}
+.center {
+    align-items: center;
+}
+.fit-picture {
+    image-rendering: crisp-edges;
 }
