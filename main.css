@@ -5,6 +5,10 @@ html {
 .headings {
     font: bold;
     align-self: center;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
 }
 p {
     background: rgb(143, 142, 142);
