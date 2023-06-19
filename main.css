@@ -1,16 +1,9 @@
 html {
     background: rgb(120, 223, 249);
 }
-h1 {
-    color: black;
+.headings {
     font: bold;
-    align-items: center;
-}
-h2 {
-    align-items: center;
-}
-h3 {
-    align-items: center;
+    align-self: center;
 }
 p {
     background: rgba(255, 255, 255, 0.741);
