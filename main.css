@@ -10,7 +10,10 @@ p {
     background: rgb(143, 142, 142);
 }
 .center {
-    align-items: center;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
 }
 .fit-picture {
     image-rendering: crisp-edges;
