@@ -1,8 +1,8 @@
 html {
     background: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
 }
 .headings {
-    font-family: Arial, Helvetica, sans-serif;
     font: bold;
     align-self: center;
 }
