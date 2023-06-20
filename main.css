@@ -9,6 +9,7 @@ html {
     margin: auto;
     border: 3px skyblue;
     padding: 10px;
+    background-color: cornflowerblue;
 }
 p {
     background: rgb(123, 160, 240);
