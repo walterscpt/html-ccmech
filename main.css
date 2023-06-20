@@ -12,10 +12,12 @@ html {
 p {
     background: rgb(230, 226, 226);
 }
+li {
+    background: rgb(230, 226, 226);
+}
 .center {
     margin: auto;
     width: 50%;
-    border: 3px solid green;
     padding: 10px;
 }
 .fit-picture {
