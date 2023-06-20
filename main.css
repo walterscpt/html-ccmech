@@ -15,9 +15,11 @@ html {
 p {
     background: rgb(230, 226, 226);
 }
-li {
+ul {
     background: rgb(230, 226, 226);
-    text-align: left;
+}
+ol {
+    background: rgb(230, 226, 226);
 }
 .center {
     margin: auto;
