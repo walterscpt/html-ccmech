@@ -2,7 +2,8 @@
     text-align: center;
 }
 html {
-    background: white;
+    background-color: darkgrey;
+    background-image: url("./images\CC.jpg");
     font-family: Arial, Helvetica, sans-serif;
 }
 .headings {
