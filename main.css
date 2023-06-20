@@ -23,3 +23,6 @@ li {
 .fit-picture {
     image-rendering: crisp-edges;
 }
+* {
+    text-align: center;
+}
