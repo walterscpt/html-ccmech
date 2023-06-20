@@ -17,9 +17,11 @@ p {
 }
 ul {
     background: rgb(230, 226, 226);
+    text-align: left;
 }
 ol {
     background: rgb(230, 226, 226);
+    text-align: left;
 }
 .center {
     margin: auto;
