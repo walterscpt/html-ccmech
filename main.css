@@ -18,3 +18,6 @@ p {
     border: 3px solid green;
     padding: 10px;
 }
+.fit-picture {
+    image-rendering: crisp-edges;
+}
