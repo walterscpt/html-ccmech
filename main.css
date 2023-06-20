@@ -11,14 +11,14 @@ html {
     padding: 10px;
 }
 p {
-    background: rgb(230, 226, 226);
+    background: rgb(123, 160, 240);
     text-align: center
 }
 ul {
-    background: rgb(230, 226, 226);
+    background: rgb(123, 160, 240);
 }
 ol {
-    background: rgb(230, 226, 226);
+    background: rgb(123, 160, 240);
 }
 .center {
     margin: auto;
