@@ -26,5 +26,6 @@ ol {
     padding: 10px;
 }
 .fit-picture {
-    image-rendering: crisp-edges;
+    max-width: 99%;
+    max-height: 99%;
 }
