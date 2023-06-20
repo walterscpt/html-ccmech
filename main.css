@@ -12,14 +12,14 @@ html {
     background-color: cornflowerblue;
 }
 p {
-    background: rgb(123, 160, 240);
+    background: white;
     text-align: center
 }
 ul {
-    background: rgb(123, 160, 240);
+    background: white;
 }
 ol {
-    background: rgb(123, 160, 240);
+    background: white;
 }
 .center {
     margin: auto;
